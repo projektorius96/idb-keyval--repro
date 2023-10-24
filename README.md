@@ -1,0 +1,1 @@
+> All credits to [jakearchibald](https://github.com/jakearchibald/idb-keyval)
